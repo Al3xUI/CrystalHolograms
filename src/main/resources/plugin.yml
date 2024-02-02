@@ -1,0 +1,10 @@
+  name: CrystalHologram
+  main: fr.alex.dev.Main
+  version: ${project.version}
+  commands:
+    hologram:
+      description: Permet de faire spawn un hologram
+      aliases: /hologram
+    createhologram:
+      description: permet de creer un holograme
+      aliases: /createh
